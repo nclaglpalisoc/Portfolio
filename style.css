@@ -1,0 +1,149 @@
+#heros{
+    position: relative;
+
+}
+#srh{
+    left: 80px;
+    position: relative;
+}
+.navbar{
+    background: #FFDB58;
+}
+.nav-item{
+    font-size: 25px;
+    right: 30px;
+    position: relative;
+   padding-left: 100px;
+}
+.cont{
+    width: 100%;
+}
+.ize{
+    max-width: 1300px;
+    margin: 0 auto;
+
+}
+.body{
+    background: #719898;
+}
+/* .nav-item{
+    /* margin-left: 60px;
+} */
+.buboy{
+    position: relative;
+    width: 130px;
+    left: 10px;
+}
+.cdp{
+    position: relative;
+    bottom: 20px;
+    margin-right: 300px;
+    left: 130px;
+    font-size: 50px;
+    font-style: italic;
+}
+.bold{
+    position: relative;
+    font-size: 25px;
+    font-style: italic;
+
+}
+.webs{
+    position: relative;
+    bottom: 457px;
+    left: 558px;
+    width: 779px;
+} 
+.pro{ 
+    position: relative;
+    bottom: 4px;
+    width: 672px;
+    right: 234px;
+   
+
+}
+.bars{
+    position: relative;
+    width: 150px;
+    left: 500px;
+    bottom: 125px;
+}
+#ctu{
+    position: relative;
+    font-size: 20px;
+    bottom: 520px;
+    left: 600px;
+    width: 150px;
+    height: 50px;
+    background-color: #FFDB58;
+    color: #000000;
+
+}
+#lrm{
+    position: relative;
+    font-size: 20px;
+    bottom: 520px;
+    left: 700px;
+    width: 150px;
+    height: 50px;
+    color: blue;
+}
+.g7{
+    position: relative;
+    left: 1px;
+    width: 1304px;
+    bottom: 350px;
+    height: 822px;
+}
+.g8{
+    border-radius: 5px;
+    bottom: 2220px;
+    position: relative;
+    left: 50px;
+    width: 1200px;
+}
+.cp{
+    position: relative;
+    padding: 50px;
+    margin: 20px;
+    width: 1020px;
+    bottom: 2017px;
+    left: 108px;
+    height: 742px;
+}
+.g9{
+    position: relative;
+    width: 1000px;
+    bottom: 4000px;
+    left: 145px;
+} 
+.codes{
+    height: 1700px;
+    position: relative;
+    width: 1300px;
+    bottom: 2300px;
+    left: 1px;
+
+}
+.text{
+    margin-right: 500px;
+    position: relative;
+    left: 480px;
+    bottom: 550px;
+    color: white;
+    font-style:italic
+}
+.updown7{
+    position: relative;
+    width: 1304px;
+    bottom: 350px;
+    height: 900px;
+}
+.desk{
+    position: relative;
+    padding: 50px;
+    margin: 20px;
+    width: 520px;
+    bottom: 2157px;
+    left: 350px;
+}
